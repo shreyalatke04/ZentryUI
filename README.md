@@ -14,3 +14,5 @@ Tech Stack:
 Frontend: React, Vite, Tailwind CSS
 Animations: GSAP
 Version Control: Git & GitHub
+
+Live Demo: https://shreyalatke04.github.io/ZentryUI/
