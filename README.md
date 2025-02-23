@@ -1,13 +1,15 @@
-<<<<<<< HEAD
-# ZentryUI
-A visually stunning UI/UX clone of Zentry.com, built with React, Vite and Tailwind CSS.
-=======
-# React + Vite
+Repository Name: ZentryUI 
+Project Description:
+A modern and visually appealing UI/UX clone of Zentry.com, built using Vite, React, and Tailwind CSS. This project recreates the award-winning design of Zentry while ensuring high performance and smooth animations using GSAP.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
+✅ Fully responsive and visually stunning UI
+✅ Smooth animations with GSAP
+✅ Optimized with Vite for fast performance
+✅ Styled with Tailwind CSS
+✅ Component-based structure in React
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 4e10915 (Initial commit)
+Tech Stack:
+Frontend: React, Vite, Tailwind CSS
+Animations: GSAP
+Version Control: Git & GitHub
