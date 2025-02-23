@@ -1,4 +1,5 @@
 Repository Name: ZentryUI 
+
 Project Description:
 A modern and visually appealing UI/UX clone of Zentry.com, built using Vite, React, and Tailwind CSS. This project recreates the award-winning design of Zentry while ensuring high performance and smooth animations using GSAP.
 
